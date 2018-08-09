@@ -1,0 +1,105 @@
+*{
+	box-sizing:border-box;
+	padding:0;
+	margin:0;
+}
+header{
+	background-color: #000;
+	color: #fff;
+	height:50px;
+	width:100%;
+	text-align:center;
+}
+
+div{
+	margin-top: 10px;
+	display:inline-block;
+	margin-left: 25px;
+	font-size: 20px;
+	border-bottom: solid 1px #ccc;
+}
+.sec{
+	background-color: #ccc;
+	height:25px; 
+}
+.aju{
+	width:10%;
+	height:20px;
+	background-color: #ccc;
+	text-align: center;
+	float: right;
+}
+.art{
+	width:10%;
+	height:20px;
+	background-color: #fff;
+	text-align: center;
+}
+
+
+/* parte de el logo etc */
+
+.log{
+	background-color: #6E6E6E;
+	width:50%;
+	height:250px;
+	text-align:center;
+	color:#fff;
+}
+
+.pro{
+	float:right;
+	background-color: #424242;
+	width:50%;
+	height:250px; 
+	text-align: center;
+	color:#fff;
+}
+.cont{
+	background-color:#BDBDBD;
+	height:300px;
+}
+
+.carp{
+    background-color:#2E2E2E;
+    float:left;
+    width:20%;
+    height:200px;
+    color: #fff;
+    margin-top:45px;
+    text-align:center;
+    margin-left: 50px; 
+}
+.icon1{
+	background-color: #2E2E2E;
+	width:10%;
+	height:160px;
+	float:left;
+	color:#fff;
+	text-align: center;
+	margin-left:270px;
+	margin-top:70px;
+}
+
+.icon2{
+   background-color: #6E6E6E;
+   width:10%;
+   height:160px;
+   float:left;
+   color:#fff;
+   text-align: center;
+   margin-top:70px;
+}
+.recu{
+	background-color: #2E2E2E;
+	width: 20%;
+	float: right;
+	color:#fff;
+	text-align:center;
+	margin-top:45px;
+	height:200px;
+	margin-right:50px;
+}
+
+
+
